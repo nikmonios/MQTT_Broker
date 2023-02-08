@@ -1,0 +1,5 @@
+1652086177: mosquitto version 2.0.14 starting
+1652086177: Config loaded from /mosquitto/config/mosquitto.conf.
+1652086177: Opening ipv4 listen socket on port 8883.
+1652086177: Opening ipv6 listen socket on port 8883.
+1652086177: mosquitto version 2.0.14 running
